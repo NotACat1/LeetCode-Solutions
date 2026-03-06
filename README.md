@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0035-search-insert-position](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [1488-avoid-flood-in-the-city](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 ## Hash Table
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [1488-avoid-flood-in-the-city](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |

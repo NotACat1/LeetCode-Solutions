@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [1488-avoid-flood-in-the-city](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 ## Hash Table
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

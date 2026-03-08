@@ -15,7 +15,6 @@ public:
         if (list2 == nullptr) return list1;
 
         ListNode* head = nullptr;
-        ListNode* current = head;
         if (list1->val <= list2->val) {
             head = list1;
             list1 = list1->next;
@@ -24,6 +23,8 @@ public:
             head = list2;
             list2 = list2->next;
         }
+
+        ListNode* current = head;
         
         while (list1 != nullptr && list2 != nullptr) {
             if (list1->val <= list2->val) {
@@ -38,11 +39,10 @@ public:
         }
 
         if (list1 != nullptr) {
-            current = list1;
+            current->next = list1;
         }
-
         if (list2 != nullptr) {
-            current = list2;
+            current->next = list2;
         }
 
         return head;

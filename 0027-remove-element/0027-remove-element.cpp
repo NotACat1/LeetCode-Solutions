@@ -3,21 +3,17 @@
 class Solution {
 public:
     int removeElement(std::vector<int>& nums, int val) {
-        int left = 0;
-        int right = nums.size() - 1;
-        int count = 0;
+        if (nums.empty()) return 0;
 
-        while (left <= right) {
-            if (nums[left] == val) {
-                std::swap(nums[left], nums[right]);
-                --right;
-            }
-            else {
-                ++left;
-                ++count;
+        size_t write = 0;
+
+        for (size_t read = 0; read < nums.size(); ++read) {
+            if (nums[read] != val) {
+                nums[write] = nums[read];
+                ++write;
             }
         }
 
-        return count;
+        return write;
     }
 };

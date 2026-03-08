@@ -14,9 +14,17 @@ public:
         if (list1 == nullptr) return list2;
         if (list2 == nullptr) return list1;
 
-        auto dummy = new ListNode(0);
-        auto current = dummy;
-
+        ListNode* head = nullptr;
+        ListNode* current = head;
+        if (list1->val <= list2->val) {
+            head = list1;
+            list1 = list1->next;
+        }
+        else {
+            head = list2;
+            list2 = list2->next;
+        }
+        
         while (list1 != nullptr && list2 != nullptr) {
             if (list1->val <= list2->val) {
                 current->next = list1;
@@ -30,14 +38,13 @@ public:
         }
 
         if (list1 != nullptr) {
-            current->next = list1;
-        }
-        if (list2 != nullptr) {
-            current->next = list2;
+            current = list1;
         }
 
-        auto result = dummy->next;
-        delete dummy;
-        return result;
+        if (list2 != nullptr) {
+            current = list2;
+        }
+
+        return head;
     }
 };

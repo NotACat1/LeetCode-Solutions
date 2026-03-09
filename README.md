@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |

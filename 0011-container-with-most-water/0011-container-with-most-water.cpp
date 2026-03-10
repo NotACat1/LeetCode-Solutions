@@ -5,18 +5,23 @@ public:
     int maxArea(std::vector<int>& height) {
         if (height.empty()) return 0;
 
-        int left = 0;
-        int right = height.size() - 1;
-        long maxSquare = 0;
+        size_t left = 0;
+        size_t right = height.size() - 1;
+        int maxSquare = 0;
 
         while (left < right) {
-            int w = right - left;
+            size_t w = right - left;
             int h = std::min(height[left], height[right]);
 
-            long square = w * h;
-            maxSquare = maxSquare > square ? maxSquare : square;
+            int square = w * h;
+            maxSquare = std::max(maxSquare, square);
 
-            height[left] > height[right] ? --right : ++left;
+            if (height[left] > height[right]) {
+                --right;
+            }
+            else {
+                ++left;
+            }
         }
 
         return maxSquare;

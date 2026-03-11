@@ -9,7 +9,7 @@ public:
 
         if (n < 3) return result;
 
-        std::sort(nums.begin(), nums.end());
+        std::sort(begin(nums), end(nums));
 
         if (nums[0] > 0) return result;
 

@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0094-binary-tree-inorder-traversal](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,4 +146,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->

@@ -15,16 +15,32 @@ class Solution {
 public:
     std::vector<int> inorderTraversal(TreeNode* root) {
         std::vector<int> result;
-        inorderHelper(root, result);
+        TreeNode* current = root;
+
+        while (current != nullptr) {
+            if (current->left == nullptr) {
+                result.push_back(current->val);
+                current = current->right;
+            }
+            else {
+                TreeNode* predecessor = current->left;
+
+                while (predecessor->right != nullptr && predecessor->right != current) {
+                    predecessor = predecessor->right;
+                }
+
+                if (predecessor->right == nullptr) {
+                    predecessor->right = current;
+                    current = current->left;
+                }
+                else {
+                    predecessor->right = nullptr;
+                    result.push_back(current->val);
+                    current = current->right;
+                }
+            }
+        }
+
         return result;
-    }
-
-private:
-    void inorderHelper(TreeNode* node, std::vector<int>& result) {
-        if (!node) return;
-
-        inorderHelper(node->left, result);
-        result.emplace_back(node->val);
-        inorderHelper(node->right, result);
     }
 };

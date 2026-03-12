@@ -1,3 +1,6 @@
+#include <queue>
+#include <utility>
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -14,16 +17,21 @@ public:
     bool isSymmetric(TreeNode* root) {
         if (!root) return true;
 
-        return isMirror(root->left, root->right);
-    }
+        std::queue<std::pair< TreeNode*, TreeNode*>> que;
+        que.push({ root->left, root->right });
 
-private:
-    bool isMirror(TreeNode* left, TreeNode* right) {
-        if (!left && !right) return true;
-        if (!left || !right) return false;
+        while (!que.empty())
+        {
+            auto [left, right] = que.front();
+            que.pop();
 
-        return left->val == right->val &&
-            isMirror(left->left, right->right) &&
-            isMirror(left->right, right->left);
+            if (!left && !right) continue;
+            if (!left || !right || left->val != right->val) return false;
+
+            que.push({ left->left,  right->right });
+            que.push({ left->right, right->left });
+        }
+
+        return true;
     }
 };

@@ -1,3 +1,5 @@
+#include <queue>
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -14,9 +16,26 @@ public:
     int maxDepth(TreeNode* root) {
         if (!root) return 0;
 
-        auto maxDepthLeft  = maxDepth(root->left);
-        auto maxDepthRight = maxDepth(root->right);
+        std::queue<TreeNode*> que;
+        que.push(root);
+        int depth = 0;
 
-        return std::max(maxDepthLeft, maxDepthRight) + 1;
+        while (!que.empty())
+        {
+            int levelSize = que.size();
+
+            for (int i = 0; i < levelSize; ++i)
+            {
+                auto node = que.front();
+                que.pop();
+
+                if (node->left)  que.push(node->left);
+                if (node->right) que.push(node->right);
+            }
+
+            ++depth;
+        }
+
+        return depth;
     }
 };

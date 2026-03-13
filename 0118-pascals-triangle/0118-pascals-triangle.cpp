@@ -3,25 +3,14 @@
 class Solution {
 public:
     std::vector<std::vector<int>> generate(int numRows) {
-        std::vector<std::vector<int>> triangle;
+        std::vector<std::vector<int>> triangle(numRows);
 
-        if (numRows == 0) return triangle;
+        for (int i = 0; i < numRows; ++i) {
+            triangle[i].resize(i + 1, 1);
 
-        triangle.push_back({ 1 });
-
-        for (int row = 1; row < numRows; ++row) {
-            std::vector<int> prevRow = triangle[row - 1];
-            std::vector<int> currentRow(row + 1);
-
-            currentRow[0] = 1;
-            currentRow[row] = 1;
-
-            for (int col = 1; col < row; ++col)
-            {
-                currentRow[col] = prevRow[col - 1] + prevRow[col];
+            for (int j = 1; j < i; ++j) {
+                triangle[i][j] = triangle[i - 1][j - 1] + triangle[i - 1][j];
             }
-
-            triangle.emplace_back(currentRow);
         }
 
         return triangle;

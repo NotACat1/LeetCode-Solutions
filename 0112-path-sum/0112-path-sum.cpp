@@ -15,7 +15,7 @@
 class Solution {
 public:
     bool hasPathSum(TreeNode* root, int targetSum) {
-        if (!root || root->val > targetSum) return false;
+        if (!root) return false;
 
         std::stack<std::pair<TreeNode*, int>> st;        
         st.push({ root, root->val });
@@ -24,14 +24,11 @@ public:
             auto [node, currentSum] = st.top();
             st.pop();
 
-            if (!node->left && !node->right && currentSum == targetSum) 
-                return true;
+            if (!node->left && !node->right && currentSum == targetSum) return true;
 
-            if (node->right && currentSum + node->right->val <= targetSum) 
-                st.push({ node->right, currentSum + node->right->val });
+            if (node->right) st.push({ node->right, currentSum + node->right->val });
 
-            if (node->left && currentSum + node->left->val <= targetSum)
-                st.push({ node->left, currentSum + node->left->val });
+            if (node->left) st.push({ node->left, currentSum + node->left->val });
         }
 
         return false;

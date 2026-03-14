@@ -1,5 +1,3 @@
-#include <unordered_set>
-
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -11,15 +9,16 @@
 class Solution {
 public:
     bool hasCycle(ListNode* head) {
-        if (!head) return false;
+        if (!head || !head->next) return false;
 
-        std::unordered_set<ListNode*> set;
+        auto fast = head;
+        auto slow = head;
 
-        while (head) {
-            if (set.count(head)) return true;
+        while (fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
 
-            set.insert(head);
-            head = head->next;
+            if (fast == slow) return true;
         }
 
         return false;

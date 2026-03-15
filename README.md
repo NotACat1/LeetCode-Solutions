@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [1488-avoid-flood-in-the-city](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 ## Hash Table
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [1488-avoid-flood-in-the-city](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0169-majority-element](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,4 +216,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->

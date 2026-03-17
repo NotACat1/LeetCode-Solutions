@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [1488-avoid-flood-in-the-city](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1488-avoid-flood-in-the-city/) | Medium |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [1488-avoid-flood-in-the-city](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1488-avoid-flood-in-the-city/) | Medium |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,4 +236,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 <!---LeetCode Topics End-->

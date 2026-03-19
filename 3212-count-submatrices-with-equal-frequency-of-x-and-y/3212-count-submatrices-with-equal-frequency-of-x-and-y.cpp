@@ -1,4 +1,5 @@
 #include <vector>
+#include <utility>
 
 class Solution {
 public:
@@ -6,44 +7,32 @@ public:
         auto n = grid.size();
         auto m = grid[0].size();
 
-        std::vector< std::vector<int>> pref_x(n, std::vector<int>(m, 0));
-        std::vector< std::vector<int>> pref_y(n, std::vector<int>(m, 0));
-
+        std::vector<std::pair<bool, int>> diff(m, { false, 0 });
         int result = 0;
 
-        for (size_t i = 0; i < n; ++i)
+        for (auto const& row : grid)
         {
+            int sum = 0;
+            bool has_x_row = false;
+
             for (size_t j = 0; j < m; ++j)
             {
-                auto is_x = grid[i][j] == 'X';
-                auto is_y = grid[i][j] == 'Y';
-
-                if (is_x)
-                    ++pref_x[i][j];
-
-                if (is_y)
-                    ++pref_y[i][j];
-
-                if (i > 0)
-                {
-                    pref_x[i][j] += pref_x[i - 1][j];
-                    pref_y[i][j] += pref_y[i - 1][j];
+                if (row[j] == 'X') {
+                    has_x_row = true;
+                    ++sum;
+                }
+                else if (row[j] == 'Y') {
+                    --sum;
                 }
 
-                if (j > 0)
-                {
-                    pref_x[i][j] += pref_x[i][j - 1];
-                    pref_y[i][j] += pref_y[i][j - 1];
-                }
+                auto& [has_x, count_diff] = diff[j];
+                
+                has_x |= has_x_row;
+                count_diff += sum;
 
-                if (i > 0 && j > 0)
-                {
-                    pref_x[i][j] -= pref_x[i - 1][j - 1];
-                    pref_y[i][j] -= pref_y[i - 1][j - 1];
+                if (has_x && count_diff == 0) {
+                    result++;
                 }
-
-                if (pref_x[i][j] != 0 && pref_x[i][j] == pref_y[i][j])
-                    ++result;
             }
         }
 

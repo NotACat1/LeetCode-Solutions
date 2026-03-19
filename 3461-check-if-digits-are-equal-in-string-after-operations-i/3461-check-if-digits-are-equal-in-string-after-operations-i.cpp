@@ -1,21 +1,28 @@
+#include <vector>
 #include <string>
 
 class Solution {
 public:
     bool hasSameDigits(std::string s) {
-        if (s.size() < 2) return true;
+        auto n = s.length();
+        std::vector<int> row(n - 1, 1);
 
-        while (s.size() > 2) {
-            std::string temp = "";
-
-            for (size_t i = 0; i < s.size() - 1; ++i) {
-                auto a = static_cast<int>(s[i] - '0');
-                auto b = static_cast<int>(s[i + 1] - '0');
-                temp += static_cast<char>((a + b) % 10) + '0';
+        for (int len = 1; len < n - 1; ++len) {
+            for (int j = len; j > 0; --j) {
+                row[j] = (row[j] + row[j - 1]) % 10;
             }
-            s = temp;
         }
 
-        return s[0] == s[1];
+        int left = 0, right = 0;
+
+        for (int i = 0; i < n - 1; ++i) {
+            left = (left + row[i] * (s[i] - '0')) % 10;
+        }
+
+        for (int i = 0; i < n - 1; ++i) {
+            right = (right + row[i] * (s[i + 1] - '0')) % 10;
+        }
+
+        return left == right;
     }
 };

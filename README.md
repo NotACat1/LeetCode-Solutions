@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [1488-avoid-flood-in-the-city](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1488-avoid-flood-in-the-city/) | Medium |
+| [2048-next-greater-numerically-balanced-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [1622-fancy-sequence](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2048-next-greater-numerically-balanced-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Binary Search
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [2048-next-greater-numerically-balanced-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [2048-next-greater-numerically-balanced-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,4 +295,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2048-next-greater-numerically-balanced-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
 <!---LeetCode Topics End-->

@@ -1,12 +1,7 @@
 class Solution {
 public:
     int smallestNumber(int n) {
-        int x = 1;
-
-        while (x < n) {
-            x = (x << 1) | 1;
-        }
-
-        return x;
+        int k = floor(log2(n)) + 1;
+        return (1 << k) - 1;
     }
 };

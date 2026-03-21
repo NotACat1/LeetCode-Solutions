@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [1622-fancy-sequence](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2048-next-greater-numerically-balanced-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |

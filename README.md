@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1488-avoid-flood-in-the-city](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |

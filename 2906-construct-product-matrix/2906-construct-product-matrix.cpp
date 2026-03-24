@@ -3,42 +3,28 @@
 class Solution {
 public:
     std::vector<std::vector<int>> constructProductMatrix(std::vector<std::vector<int>>& grid) {
-        const int MOD = 12345;
-        int n = grid.size();
-        if (n == 0) return {};
-        int m = grid[0].size();
+        auto const n = grid.size();
+        auto const m = grid[0].size();
+        int const MOD = 12345;
 
-        std::vector<std::vector<int>> p(n, std::vector<int>(m));
+        std::vector<std::vector<int>> p(n, std::vector<int>(m, 1));
 
-        std::vector<int> row_prod(n, 1);
-        for (int i = 0; i < n; ++i) {
-            for (int j = 0; j < m; ++j) {
-                row_prod[i] = (row_prod[i] * (grid[i][j] % MOD)) % MOD;
-            }
+        long long pref = 1;
+        for (int i = 0; i < n * m; ++i) {
+            int r = i / m;
+            int c = i % m;
+
+            p[r][c] = pref;
+            pref = (pref * grid[r][c]) % MOD;
         }
 
-        std::vector<int> prefix_row_prod(n + 1, 1), suffix_row_prod(n + 1, 1);
-        for (int i = 0; i < n; ++i) {
-            prefix_row_prod[i + 1] = (prefix_row_prod[i] * row_prod[i]) % MOD;
-        }
-        for (int i = n - 1; i >= 0; --i) {
-            suffix_row_prod[i] = (suffix_row_prod[i + 1] * row_prod[i]) % MOD;
-        }
+        long long suff = 1;
+        for (int i = n * m - 1; i >= 0; --i) {
+            int r = i / m;
+            int c = i % m;
 
-        for (int i = 0; i < n; ++i) {
-            std::vector<int> prefix_in_row(m + 1, 1), suffix_in_row(m + 1, 1);
-            for (int j = 0; j < m; ++j) {
-                prefix_in_row[j + 1] = (prefix_in_row[j] * (grid[i][j] % MOD)) % MOD;
-            }
-            for (int j = m - 1; j >= 0; --j) {
-                suffix_in_row[j] = (suffix_in_row[j + 1] * (grid[i][j] % MOD)) % MOD;
-            }
-
-            for (int j = 0; j < m; ++j) {
-                int product_except_row_i = (prefix_row_prod[i] * suffix_row_prod[i + 1]) % MOD;
-                int product_except_self_in_row = (prefix_in_row[j] * suffix_in_row[j + 1]) % MOD;
-                p[i][j] = (product_except_row_i * product_except_self_in_row) % MOD;
-            }
+            p[r][c] = (p[r][c] * suff) % MOD;
+            suff = (suff * grid[r][c]) % MOD;
         }
 
         return p;

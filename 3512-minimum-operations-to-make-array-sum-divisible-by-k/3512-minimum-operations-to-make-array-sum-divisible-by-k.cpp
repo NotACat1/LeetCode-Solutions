@@ -1,15 +1,10 @@
 #include <vector>
+#include <numeric>
 
 class Solution {
 public:
     int minOperations(std::vector<int>& nums, int k) {
-        int remain = 0;
-
-        for (auto const& num : nums)
-        {
-            remain = (remain + (num % k)) % k;
-        }
-
-        return remain;
+        auto sum = std::accumulate(nums.begin(), nums.end(), 0LL);
+        return sum % k;
     }
 };

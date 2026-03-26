@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1622-fancy-sequence](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1925-count-square-sum-triples](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2048-next-greater-numerically-balanced-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -333,5 +334,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1925-count-square-sum-triples](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2048-next-greater-numerically-balanced-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
 <!---LeetCode Topics End-->

@@ -3,8 +3,8 @@
 class Solution {
 public:
     int countNegatives(std::vector<std::vector<int>>& grid) {
-        int n = grid.size();
-        int m = grid[0].size();
+        int m = grid.size();
+        int n = grid[0].size();
 
         int row = 0;
         int col = n - 1;

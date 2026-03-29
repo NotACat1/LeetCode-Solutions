@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |

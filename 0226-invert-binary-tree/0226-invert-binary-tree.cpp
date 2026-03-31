@@ -1,3 +1,5 @@
+#include <queue>
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -14,10 +16,19 @@ public:
     TreeNode* invertTree(TreeNode* root) {
         if (!root) return nullptr;
 
-        std::swap(root->left, root->right);
+        std::queue<TreeNode*> que;
+        que.push(root);
 
-        invertTree(root->left);
-        invertTree(root->right);
+        while (!que.empty())
+        {
+            auto node = que.front();
+            que.pop();
+
+            std::swap(node->left, node->right);
+
+            if (node->left)  que.push(node->left);
+            if (node->right) que.push(node->right);
+        }
 
         return root;
     }

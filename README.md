@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0228-summary-ranges](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0228-summary-ranges/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |

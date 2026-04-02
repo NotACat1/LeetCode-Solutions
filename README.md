@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1622-fancy-sequence](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
@@ -395,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |

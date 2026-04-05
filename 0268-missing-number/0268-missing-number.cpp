@@ -3,14 +3,15 @@
 class Solution {
 public:
     int missingNumber(std::vector<int>& nums) {
-        auto n = nums.size() + 1;
-        auto expected = n * (n - 1) / 2;
-        
-        for (const auto num : nums)
+        auto n = nums.size();
+        auto result = n;
+
+        for (size_t i = 0; i < n; i++)
         {
-            expected -= num;
+            result ^= i;
+            result ^= nums[i];
         }
 
-        return expected;
+        return result;
     }
 };

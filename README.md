@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |

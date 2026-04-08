@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0264-ugly-number-ii](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0290-word-pattern](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1488-avoid-flood-in-the-city](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [2048-next-greater-numerically-balanced-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0290-word-pattern](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |

@@ -21,7 +21,7 @@ public:
         auto dummy = new ListNode(0, head);
         auto pred = dummy;
 
-        for (int i = 0; i < size - n; i++) {
+        for (size_t i = 0; i < size - n; i++) {
             pred = pred->next;
         }
 

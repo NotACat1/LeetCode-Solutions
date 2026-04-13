@@ -8,7 +8,10 @@ public:
 
         while (left < right) {
             auto currentSum = numbers[left] + numbers[right];
-            if (currentSum == target) break;
+
+            if (currentSum == target) {
+                return { ++left, ++right };
+            }
 
             if (currentSum < target) {
                 left++;
@@ -18,6 +21,6 @@ public:
             }
         }
 
-        return { ++left, ++right };
+        return {};
     }
 };

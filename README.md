@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
+| [0739-daily-temperatures](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -479,4 +481,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->

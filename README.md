@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -405,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1622-fancy-sequence](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |

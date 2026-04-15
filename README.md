@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0056-merge-intervals](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |

@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0076-minimum-window-substring](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0133-clone-graph](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0141-linked-list-cycle](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
@@ -397,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0133-clone-graph](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
@@ -425,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0133-clone-graph](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0226-invert-binary-tree](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -518,4 +521,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0133-clone-graph/) | Medium |
 <!---LeetCode Topics End-->

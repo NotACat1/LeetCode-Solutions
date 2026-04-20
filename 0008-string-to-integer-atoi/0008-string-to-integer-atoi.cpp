@@ -5,27 +5,36 @@ public:
     int myAtoi(std::string s) {
         int i = 0;
         int n = s.length();
-        int sign = 1;
-        long result = 0;
+        bool isPositive = true;
+        int result = 0;
 
         while (i < n && s[i] == ' ') {
-            ++i;
+            i++;
         }
 
         if (i < n && (s[i] == '+' || s[i] == '-')) {
-            sign = s[i] == '-' ? -1 : 1;
-            ++i;
+            if (s[i] == '-') {
+                isPositive = false;
+            }
+            i++;
+        }
+
+        while (i < n && s[i] == '0') {
+            i++;
         }
 
         while (i < n && isdigit(s[i])) {
-            result = result * 10 + (s[i] - '0');
+            int digit = s[i] - '0';
 
-            if (result * sign > INT_MAX) return INT_MAX;
-            if (result * sign < INT_MIN) return INT_MIN;
+            int limit = isPositive ? 7 : 8;
+            if (result > INT_MAX / 10 || (result == INT_MAX / 10 && digit >= limit)) {
+                return isPositive ? INT_MAX : INT_MIN;
+            }
 
-            ++i;
+            result = result * 10 + digit;
+            i++;
         }
 
-        return static_cast<int>(result * sign);
+        return isPositive ? result : -result;
     }
 };

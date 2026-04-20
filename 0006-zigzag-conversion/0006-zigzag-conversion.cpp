@@ -1,24 +1,24 @@
 #include <string>
-#include <vector>
 
 class Solution {
 public:
     std::string convert(std::string s, int numRows) {
-        if (numRows == 1) return s;
+        if (numRows == 1 || s.length() <= static_cast<size_t>(numRows)) {
+             return s;
+        }
 
-        auto size = std::min(numRows, static_cast<int>(s.length()));
-        std::vector<std::string> rows(size);
-
-        int currentRow = 0;
+        std::vector<std::string> rows(numRows);
+        size_t currentRow = 0;
         bool goingDown = false;
 
-        for (const auto c : s) {
-            rows[currentRow] += c;
+        for (const auto ch : s) {
+            rows[currentRow] += ch;
 
-            if (currentRow == 0 || currentRow == numRows - 1)
+            if (currentRow == 0 || currentRow == numRows - 1) {
                 goingDown = !goingDown;
+            }
 
-            goingDown ? ++currentRow : --currentRow;
+            currentRow += goingDown ? 1 : -1;
         }
 
         std::string result;

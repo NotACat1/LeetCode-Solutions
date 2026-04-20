@@ -3,27 +3,22 @@
 
 class Solution {
 public:
-    int lengthOfLongestSubstring(std::string s)
-    {
-        std::unordered_map<char, int> lastSeen;
-        int maxLength = 0;
-        int start = 0;
+    int lengthOfLongestSubstring(std::string s) {
+        std::unordered_map<char, size_t> lastSeen;
+        size_t maxLength = 0;
+        size_t start = 0;
 
-        for (int end = 0; end < s.length(); ++end)
-        {
-            char current = s[end];
+        for (size_t end = 0; end < s.length(); end++) {
+            auto current = s[end];
 
-            if (auto it = lastSeen.find(current);
-                it != lastSeen.end() &&
-                lastSeen[current] >= start)
-            {
-                start = it->second + 1;
+            if (lastSeen.contains(current) && lastSeen[current] >= start) {
+                start = lastSeen[current] + 1;
             }
 
             lastSeen[current] = end;
             maxLength = std::max(maxLength, end - start + 1);
         }
 
-        return maxLength;
+        return static_cast<int>(maxLength);
     }
 };

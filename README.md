@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0290-word-pattern/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0264-ugly-number-ii](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3147-taking-maximum-energy-from-the-mystic-dungeon/) | Medium |
 ## Prefix Sum

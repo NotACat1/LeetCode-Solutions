@@ -1,13 +1,21 @@
 #include <string>
-#include <unordered_set>
+#include <vector>
 
 class Solution {
 public:
     bool checkIfPangram(std::string sentence) {
         if (sentence.length() < 26) return false;
 
-        std::unordered_set<char> seen(sentence.begin(), sentence.end());
+        std::vector seen(26, false);
 
-        return seen.size() == 26;
+        for (const auto ch : sentence) {
+            seen[ch - 'a'] = true;
+        }
+
+        for (const auto is_present : seen) {
+            if (!is_present) return false;
+        }
+
+        return true;
     }
 };

@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
+| [1360-number-of-days-between-two-dates](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [1360-number-of-days-between-two-dates](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1622-fancy-sequence](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |

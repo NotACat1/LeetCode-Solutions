@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |

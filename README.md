@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0338-counting-bits/) | Easy |
+| [0342-power-of-four](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |

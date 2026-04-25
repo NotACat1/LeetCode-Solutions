@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0292-nim-game/) | Easy |
+| [0326-power-of-three](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |

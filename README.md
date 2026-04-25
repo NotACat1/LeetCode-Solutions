@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0496-next-greater-element-i](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1488-avoid-flood-in-the-city](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -312,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -397,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |

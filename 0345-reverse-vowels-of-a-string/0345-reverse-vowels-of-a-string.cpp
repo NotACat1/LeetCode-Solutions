@@ -1,12 +1,9 @@
 #include <string>
-#include <unordered_set>
 #include <algorithm>
 
 class Solution {
 public:
     std::string reverseVowels(std::string s) {
-        if (s.empty()) return s;
-
         int left = 0;
         int right = s.size() - 1;
 
@@ -19,9 +16,7 @@ public:
             }
 
             if (left < right) {
-                std::swap(s[left], s[right]);
-                left++;
-                right--;
+                std::swap(s[left++], s[right--]);
             }
         }
 
@@ -30,9 +25,7 @@ public:
 
 private:
     bool isVowel(char c) {
-        char lowerC = std::tolower(static_cast<unsigned char>(c));
-        return vowelLetters.contains(lowerC);
+        c = std::tolower(c);
+        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
     }
-
-    std::unordered_set<char> vowelLetters = { 'a', 'e', 'i', 'o', 'u' };
 };

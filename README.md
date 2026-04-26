@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1488-avoid-flood-in-the-city](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -555,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0278-first-bad-version/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |

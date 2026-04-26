@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0383-ransom-note](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0496-next-greater-element-i](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0383-ransom-note](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
@@ -489,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0383-ransom-note](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [2048-next-greater-numerically-balanced-number](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2048-next-greater-numerically-balanced-number/) | Medium |
 | [3046-split-the-array](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3046-split-the-array/) | Easy |
 ## Matrix

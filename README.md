@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -394,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -507,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2906-construct-product-matrix](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Design

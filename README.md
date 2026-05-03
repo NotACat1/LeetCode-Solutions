@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2303-calculate-amount-paid-in-taxes/) | Easy |
+| [2871-split-array-into-maximum-number-of-subarrays](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2871-split-array-into-maximum-number-of-subarrays/) | Medium |
 | [2906-construct-product-matrix](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3046-split-the-array](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3046-split-the-array/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1488-avoid-flood-in-the-city](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2871-split-array-into-maximum-number-of-subarrays](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2871-split-array-into-maximum-number-of-subarrays/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Heap (Priority Queue)
@@ -387,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
+| [2871-split-array-into-maximum-number-of-subarrays](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2871-split-array-into-maximum-number-of-subarrays/) | Medium |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/NotACat1/LeetCode-Solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 ## Simulation

@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
 | [1488-avoid-flood-in-the-city](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/NotACat1/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
+| [1389-create-target-array-in-the-given-order](https://github.com/NotACat1/LeetCode-Solutions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/NotACat1/LeetCode-Solutions/tree/main/2303-calculate-amount-paid-in-taxes/) | Easy |
